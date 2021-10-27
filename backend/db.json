@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Teste",
+      "price": "1.5",
+      "id": 3
+    },
+    {
+      "name": "Geladeira",
+      "price": "2850",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "3520",
+      "id": 6
+    },
+    {
+      "name": "Samsung S20 Ultra",
+      "price": "5000",
+      "id": 7
+    }
+  ]
+}
