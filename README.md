@@ -1,2 +1,2 @@
-# crud-angular
-Projeto de CRUD (Create, Read, Update and Delete) desenvolvido em Angular com objetivo de estudar e aprofundar os conhecimentos na linguagem.
+# CRUD em Angular
+Projeto de CRUD em Angular, feito com o objetivo de estudar o Angular e aprender mais sobre sua utilização. Projeto fullstack composto por um backend simples utilizando Json e um frontend bem desenvolvido.
